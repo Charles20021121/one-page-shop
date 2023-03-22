@@ -196,3 +196,13 @@ h3
     padding-bottom: 20px;
 }
 }
+.clothes-img
+{
+    width: 100%;
+}
+.one-product-page-right
+{
+    position: relative;
+    width: 100%;
+    padding-left: 20px;
+}
